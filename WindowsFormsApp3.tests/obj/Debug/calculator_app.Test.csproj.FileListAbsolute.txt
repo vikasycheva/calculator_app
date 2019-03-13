@@ -1,0 +1,12 @@
+C:\Users\Vika Sycheva\Documents\GitHub\calculator_app\WindowsFormsApp3.Tests\bin\Debug\WindowsFormsApp3.Tests.dll
+C:\Users\Vika Sycheva\Documents\GitHub\calculator_app\WindowsFormsApp3.Tests\bin\Debug\WindowsFormsApp3.Tests.pdb
+C:\Users\Vika Sycheva\Documents\GitHub\calculator_app\WindowsFormsApp3.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Vika Sycheva\Documents\GitHub\calculator_app\WindowsFormsApp3.Tests\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Vika Sycheva\Documents\GitHub\calculator_app\WindowsFormsApp3.Tests\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Vika Sycheva\Documents\GitHub\calculator_app\WindowsFormsApp3.Tests\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Vika Sycheva\Documents\GitHub\calculator_app\WindowsFormsApp3.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Vika Sycheva\Documents\GitHub\calculator_app\WindowsFormsApp3.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Vika Sycheva\Documents\GitHub\calculator_app\WindowsFormsApp3.Tests\obj\Debug\calculator_app.Test.csprojResolveAssemblyReference.cache
+C:\Users\Vika Sycheva\Documents\GitHub\calculator_app\WindowsFormsApp3.Tests\obj\Debug\calculator_app.Test.csproj.CoreCompileInputs.cache
+C:\Users\Vika Sycheva\Documents\GitHub\calculator_app\WindowsFormsApp3.Tests\obj\Debug\WindowsFormsApp3.Tests.dll
+C:\Users\Vika Sycheva\Documents\GitHub\calculator_app\WindowsFormsApp3.Tests\obj\Debug\WindowsFormsApp3.Tests.pdb
